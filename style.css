@@ -11,7 +11,7 @@ body {
 
 .header-image {
 	position: relative;
-	background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url('img/drone.jpg');
+	background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url('drone.jpg');
 	background-size: cover;
 	background-position: center;
 	height: 100vh;
