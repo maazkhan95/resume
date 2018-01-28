@@ -288,7 +288,7 @@ body {
 	}
 
 	#showcase{
-		height: 80vh;
+		height: 50vh;
 	}
 
 	#showcase p {
@@ -300,7 +300,7 @@ body {
 
 	.tool-box {
 	width: 100%;
-	height: 100vh;
+	height: 60vh;
  	background: linear-gradient(to right , #c21500,#ffc500);
 	}
 
@@ -341,7 +341,7 @@ body {
 
 	.footer {
 	width: 100%;
-	height: 150vh;
+	height: 7vh;
 	background-color: #181820;
 
 	}
